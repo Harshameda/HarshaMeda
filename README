@@ -1,0 +1,78 @@
+# Hi, I'm Harsha Meda 👋
+
+**Data professional (4+ years)** turning complex data into intelligent products across **ML, NLP, GenAI, and cloud**. 
+I build scalable data/LLM pipelines, productionize analytics, and ship RAG systems with vector search for faster, more accurate decisions.
+
+- 🎓 **M.S. Business Analytics & IS, University of South Florida (May 2025)**
+- 🔭 Focus: RAG pipelines, LLM evaluation, vector databases, MLOps/CI-CD
+- 🌎 Tampa, FL · Open to Data/ML/GenAI roles
+
+[📧 Email](mailto:harsham280719@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/harsha-meda/) 
+
+---
+
+## 🔥 Featured Projects
+
+### YouTube Chatbot (RAG over video transcripts)
+Chat with any YouTube video in natural language. **GPT-4 + LangChain + LangServe + FAISS** pipeline with transcript embedding and semantic retrieval in a Streamlit UI.  
+**Highlights:** smooth RAG flow, prompt orchestration/monitoring, fast semantic search.  
+**Links:** [Code](#) · [Demo](#)
+
+### Neural Machine Translation (English → French)
+Bi-LSTM NMT with 100K sentence pairs (tokenization, padding, normalization). Achieved **BLEU 34.7** vs 27.2 baseline; **+18%** faster convergence.  
+**Links:** [Code](#) · [Report](#)
+
+---
+
+## 🛠️ Skills (abridged)
+
+**Languages/Analysis:** Python (pandas, numpy, matplotlib, Plotly, scikit-learn, NLTK), R, SQL, NoSQL, T-SQL  
+**Databases & Warehouses:** Oracle, PostgreSQL, MySQL, SQL Server, MongoDB, **Snowflake, Redshift, BigQuery, Teradata**  
+**AI/ML:** TensorFlow, PyTorch, Hugging Face, **LangChain/LangServe**, spaCy, Spark MLlib  
+**MLOps/DevOps:** **Airflow**, Docker, Kubernetes, MLflow, GitHub Actions, CI/CD, Jenkins, ELK  
+**Data/Orchestration:** DBT, Kafka, Hive, Hadoop, Streamlit, FastAPI, Tableau, Power BI
+
+---
+
+## 💼 Experience Snapshot
+
+**Research Assistant — University of South Florida**  
+- Built an **AI resume optimizer** (GPT-4 + LangChain + Streamlit) that lifted recruiter-rated relevance **by 35%** across 100+ pilot users.  
+- Shipped a **RAG system** with Hugging Face + OpenAI embeddings over **FAISS**; stored metadata/feedback in **Amazon Redshift**, improving personalization query speed **by 50%**.  
+- Productionized a **GCP Composer (Airflow)** pipeline for **100M+** wellness-app reviews, cutting ETL latency **by 30%**; added MLflow tracking on GCS and boosted iteration efficiency **by 25%**.  
+- Evaluated open LLMs (Mistral/Llama/Gemma) for large-scale sentiment classification to lower inference **costs by 20%** at similar quality.  
+- Published **Tableau ↔ BigQuery** dashboards for sentiment trends, accelerating decision-making **by 15%**.
+
+**Data Scientist — Tredence Analytics**  
+- Deployed RF/TF models for subscription-growth anomalies; improved targeted conversions **+12–15%** via AB tests and cohort analytics.  
+- Modernized pipelines with **AWS-powered ELT + Airflow + DBT**, improving reliability and reducing refresh times **by 13%**.  
+- Standardized **experiment tracking** with Weights & Biases and **DVC** for data/model versioning; cut debugging **by 30%**.
+
+**Data Scientist — Fratello Innotech**  
+- Telecom churn prediction with RNNs/Transformers (BERT) + XGBoost; **+18% accuracy**, **−9% attrition** via retention campaigns.  
+- NLP over **100K+** complaints (sentiment, keywords, topics) to surface churn drivers (**−12%** in prepaid segment).  
+- Automated ETL with **AWS Glue/Lambda → Redshift**, cutting pipeline latency **by 13%** and ad-hoc turnaround **by 16%**.  
+- Built **9–10 Power BI** dashboards (bookmarks, drill-throughs, tooltips) for self-service analytics.
+
+---
+
+## 🧪 What I’m Exploring Now
+- Evaluation frameworks for LLM/RAG (BLEU/ROUGE, human-label agreement, topic coherence)  
+- Retrieval optimization (hybrid search, chunking, re-ranking)  
+- Cost-aware LLM routing and distillation to open-source models
+
+---
+
+## 🏅 Certifications
+- **SnowPro Core**  
+- **AWS Certified Data Engineer — Associate**  
+- **Microsoft: Power BI Data Analyst Associate**  
+- Post Graduate Program in Data Science & Engineering
+
+---
+
+## 📬 Contact
+- Email: **harsham280719@gmail.com**  
+- LinkedIn: **/in/raja-sreeharsha-meda/**
+
+> If you’d like a quick walkthrough of any project, open an issue on the repo or ping me on LinkedIn. Happy to chat!
