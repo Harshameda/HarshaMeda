@@ -16,11 +16,11 @@ I build scalable data/LLM pipelines, productionize analytics, and ship RAG syste
 ### YouTube Chatbot (RAG over video transcripts)
 Chat with any YouTube video in natural language. **GPT-4 + LangChain + LangServe + FAISS** pipeline with transcript embedding and semantic retrieval in a Streamlit UI.  
 **Highlights:** smooth RAG flow, prompt orchestration/monitoring, fast semantic search.  
-**Links:** [Code](#) · [Demo](#)
+
 
 ### Neural Machine Translation (English → French)
 Bi-LSTM NMT with 100K sentence pairs (tokenization, padding, normalization). Achieved **BLEU 34.7** vs 27.2 baseline; **+18%** faster convergence.  
-**Links:** [Code](#) · [Report](#)
+
 
 ---
 
